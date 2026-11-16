@@ -39,7 +39,7 @@ header[data-testid="stHeader"]::before {
 header[data-testid="stHeader"]::after {
     content: "";
     position: absolute;
-    right: 12rem;
+    right: 13rem;
     top: 50%;
     transform: translateY(-50%);
     width: 2.2rem;
